@@ -1,1 +1,2 @@
 # Rock_Paper_Sissors_C_Programming
+rps_lost.c --> basic c program, takes user input, then follows if else logic to determine output. This game the output will always be the user losing, and the computer will have the winner determined by the if else logic
